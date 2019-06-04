@@ -1,6 +1,12 @@
 # Description
 
-Multiple vulnerabilities was found in XnSoft Software XnView 2.48. All the vulnerabilities are tested with Windows versions ,but may exists in other platform versions.
+Multiple vulnerabilities was found in XnSoft Software XnView(three OOB read and one infinite loop). 
+
+## Affected version
+XnView for Windows 2.48
+
+## Affected platform
+All the vulnerabilities are tested with Windows versions ,but may exists in other platform versions.
 
 # Vulnerability Details
 The details about the vulnerabilities(three OOB read and one infinite loop) are as below, the poc files loated in https://github.com/JsHuang/XnSoft-Security-Advisory/tree/master/XnView/poc 
@@ -364,6 +370,15 @@ poc file https://github.com/JsHuang/XnSoft-Security-Advisory/blob/master/XnView/
 
 See poc file XnView-infinite-loop.tif(https://github.com/JsHuang/XnSoft-Security-Advisory/blob/master/XnView/poc/XnView-infinite-loop.tif)
 
+# Reproduce
+
+Reproduce it as below:
+
+step1: Install and open XnView 2.48.
+
+step2: Click "File" and "Open".
+
+step3: Choose the poc image file.
 
 # Timeline
 
