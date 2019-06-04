@@ -5,9 +5,6 @@ Multiple vulnerabilities was found in XnSoft Software XnView(three OOB read and 
 ## Affected version
 XnView  2.48 for Windows
 
-## Affected platform
-All the vulnerabilities are tested with Windows versions ,but may exists in other platform versions.
-
 # Vulnerability Details
 The details about the vulnerabilitiesare as below, the poc files loated in https://github.com/JsHuang/XnSoft-Security-Advisory/tree/master/XnView/poc 
 
