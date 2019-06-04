@@ -99,7 +99,7 @@ WARNING: Stack unwind information not available. Following frames may be wrong.
 0042ff18 00000000 01584c79 fffde000 00000000 ntdll!RtlInitializeExceptionChain+0x36
 
 ```
-
+poc file https://github.com/JsHuang/XnSoft-Security-Advisory/blob/master/XnView/poc/oob-read-xnview%2B384e2a.tif
 
 
 ## 2. OOB-Read 2
@@ -213,7 +213,7 @@ WARNING: Stack unwind information not available. Following frames may be wrong.
 003af854 00000000 012e4c79 fffde000 00000000 ntdll!RtlInitializeExceptionChain+0x36
 
 ```
-
+poc file https://github.com/JsHuang/XnSoft-Security-Advisory/blob/master/XnView/poc/oob-read-RtlInitUnicodeString%2B196.tif
 
 
 ## 3. OOB-Read 3
@@ -356,12 +356,12 @@ WARNING: Stack unwind information not available. Following frames may be wrong.
 002cfb28 774c9ea5 01574c79 fffde000 00000000 ntdll!RtlInitializeExceptionChain+0x63
 002cfb40 00000000 01574c79 fffde000 00000000 ntdll!RtlInitializeExceptionChain+0x36
 ```
-
+poc file https://github.com/JsHuang/XnSoft-Security-Advisory/blob/master/XnView/poc/oob-read-xnview%2B2f91a0.tif
 
 
 ## 4. Infinite Loop
 
-See poc file XnView-infinite-loop.tif
+See poc file XnView-infinite-loop.tif(https://github.com/JsHuang/XnSoft-Security-Advisory/blob/master/XnView/poc/XnView-infinite-loop.tif)
 
 
 # Timeline
