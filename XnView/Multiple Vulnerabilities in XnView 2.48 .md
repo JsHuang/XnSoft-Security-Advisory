@@ -367,7 +367,7 @@ See poc file XnView-infinite-loop.tif(https://github.com/JsHuang/XnSoft-Security
 # Timeline
 
 2019-02-28 	: Reported these vulnerabilities to the XnSoft developer    
-2019-06-04 	: Vulnerabilityie not fixed yet and become public
+2019-06-04 	: Vulnerabilities not fixed yet and become public
 
 # Credit 
 
