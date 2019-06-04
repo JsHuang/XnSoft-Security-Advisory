@@ -383,7 +383,7 @@ step3: Choose the poc image file.
 # Timeline
 
 2019-02-28 	: Reported these vulnerabilities to the XnSoft developer    
-2019-06-04 	: Vulnerabilities not fixed yet and become public
+2019-06-04 	: Vulnerabilities were not fixed yet and become public
 
 # Credit 
 
