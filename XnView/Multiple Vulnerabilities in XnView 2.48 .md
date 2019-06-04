@@ -8,7 +8,7 @@ XnView  2.48 for Windows
 # Vulnerability Details
 The details about the vulnerabilitiesare as below, the poc files loated in https://github.com/JsHuang/XnSoft-Security-Advisory/tree/master/XnView/poc 
 
-## 1. OOB-Read 1 
+## 1. OOB-Read (xnview+384e2a)
 
 windbg result:
 
@@ -106,7 +106,7 @@ WARNING: Stack unwind information not available. Following frames may be wrong.
 poc file https://github.com/JsHuang/XnSoft-Security-Advisory/blob/master/XnView/poc/oob-read-xnview%2B384e2a.tif
 
 
-## 2. OOB-Read 2
+## 2. OOB-Read (ntdll!RtlInitUnicodeString+196)
 
 windbg result:
 
@@ -220,7 +220,7 @@ WARNING: Stack unwind information not available. Following frames may be wrong.
 poc file https://github.com/JsHuang/XnSoft-Security-Advisory/blob/master/XnView/poc/oob-read-RtlInitUnicodeString%2B196.tif
 
 
-## 3. OOB-Read 3
+## 3. OOB-Read (xnview+2f91a0)
 
 windbg result:
 
