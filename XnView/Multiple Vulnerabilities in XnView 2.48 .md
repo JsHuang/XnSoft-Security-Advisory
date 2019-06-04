@@ -1,3 +1,4 @@
+[toc]
 # Description
 
 Multiple vulnerabilities was found in XnSoft Software XnView 2.48. All the vulnerabilities are tested with Windows versions ,but may exists in other platform versions.
